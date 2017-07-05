@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Custom button main screen-->
+    <color name="colorButtonDefault">#F08c35</color>
+    <color name="colorButtonPressed">#c15921</color>
+
+    <!--Override theme background color-->
+    <color name="customBackground">#9FA8DA</color>
+
+
+</resources>

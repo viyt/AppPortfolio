@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="action_settings">Settings</string>
+
+    <!--fragment_main-->
+
+    <!--TextViews-->
+    <string name="tv_my_nanodegree">My Nanodegree Aps</string>
+
+    <!--Buttons-->
+    <string name="btn_popular_movies">Popular Movies</string>
+    <string name="btn_stock_hawk">Stock Hawk</string>
+    <string name="btn_build_it_bigger">Build it Bigger</string>
+    <string name="btn_make_app_material">Make Your App Material</string>
+    <string name="btn_go_ubiquitous">Go Ubiquitous</string>
+    <string name="btn_capstone">Capstone: My Own App</string>
+
+    <!--Messages-->
+    <string name="msg_movies">This button will launch my Popular Movies project</string>
+    <string name="msg_stock_hawk">This button will launch my Stock Hawk project</string>
+    <string name="msg_build_bigger">This button will launch my Build it Bigger project</string>
+    <string name="msg_app_material">This button will launch my Make Your App Material project</string>
+    <string name="msg_ubiquitous">This button will launch my Go Ubiquitous project</string>
+    <string name="msg_capstone">This button will launch my Capstone project</string>
+</resources>
